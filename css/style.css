@@ -38,7 +38,6 @@ nav {
     position: fixed;
     top: 0;
     z-index: 100;
-    
 }
 
 .nav {
@@ -122,6 +121,100 @@ nav {
     text-transform: uppercase;
     box-shadow: 0 8px 32px rgba(97, 31, 31, 0.46);
 }
+/*nuevo wensaasaasasssa*/
+.section-ducation{
+    background-color: #dbdbdb;
+}
+ .section-ducation .title{
+    display: block;
+    margin: 15px 0;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.content-education {
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-around;
+    padding-bottom:30px ;
+}
+.education{
+    width: 30%;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px;
+
+}
+.education i{
+    border: 2px solid #bd6060;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #d03d3d;
+    width:40px ;
+    height: 40px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 36px;
+}
+.education:hover{
+    background-color: #d03d3d;
+    box-shadow: 0 0 8px gray;
+    transition: all ease-in-out .8s;
+
+}
+.content-education .education a:hover{
+    color: grey;
+    font-size: 12px;
+    text-decoration: none;
+}
+/*       dfdgfdg           */
+.section-certificates .title{
+    display: block;
+    margin: 15px 0;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.content-certificates {
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-around;
+    padding-bottom:30px ;
+}
+.certificates{
+width: 22%;
+border-radius: 5px;
+border: 2px solid rebeccapurple;
+margin-top: 15px;
+text-align: center;
+padding: 15px;
+
+}
+.certificates img{
+    height: 100px;
+    width: auto;
+}
+.certificates a{
+    font-size: 12px;
+    color: #5d6678;
+    text-decoration: none;
+
+}
+.certificates:hover{
+    background-color: red;
+    box-shadow: 0 0 8px gray;
+    color: #fff;
+    transform: scale(1.1);
+    transition: all ease-in-out .7s;
+    border: #dbdbdb;
+}
+.certificates a:hover{
+    color: #dbdbdb;
+}
+
+
 /*############################################################################pie de pagina ##################################################################### */
 footer{
     background-color: rgb(70, 70, 70);
