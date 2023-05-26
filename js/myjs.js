@@ -11,8 +11,11 @@ document.querySelectorAll(".hamburguer")[0].addEventListener("click",function(){
         icon_hamburguer=true;
     }
     enlaces_header.classList.toggle("hamburgueropen");
-})
-document.querySelector(".enlaces_header")[0].addEventListener("click",function(){
+});
+document.querySelector(".enlaces-header").addEventListener("click",function(){
     enlaces_header.classList.toggle("hamburgueropen");
     document.querySelectorAll(".hamburguer")[0].style.color = "#000";
-})
+});
+
+
+
