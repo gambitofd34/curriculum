@@ -1,7 +1,7 @@
 
 # Página de Hoja de Vida &#x1F604;
 
-Este es el repositorio de mi página personal de hoja mi Hoja de Vida. Aquí encontrarás información relevante sobre mi perfil profesional y académico.(Ojo que este repositorio solamente es para que usen como plantilla de  su hoja de vida u alguna pagina de su interés)
+Este es el repositorio de mi página personal de hoja mi Hoja de Vida. Aquí encontrarás información relevante sobre mi perfil profesional y académico.(Ojo que este repositorio solamente es para que usen como plantilla de  su hoja de vida o alguna pagina de su interés)
 
 ## Contenido
 index.html: Archivo principal HTML que contiene la estructura de la página.
