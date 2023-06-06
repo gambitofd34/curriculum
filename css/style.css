@@ -140,7 +140,10 @@ nav {
     box-shadow: 0 8px 32px rgba(97, 31, 31, 0.46);
 }
 
-/*nuevo wensaasaasasssa*/
+/*content*/
+h2,h3{
+text-align: center;
+}
 .section-ducation {
     background-color: #dbdbdb;
 }
@@ -281,7 +284,6 @@ footer {
 
 .contact>i {
     float: left;
-    margin: 0 0 5px;
     color: white;
     border-radius: 50%;
     border: 1px solic white;
