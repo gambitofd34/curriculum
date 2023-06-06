@@ -1,5 +1,5 @@
 
-### Página de Hoja de Vida `:smile`
+### Página de Hoja de Vida \u{1F604}
 
 Este es el repositorio de mi página personal de hoja de vida. Aquí encontrarás información relevante sobre mi perfil profesional y académico.
 
