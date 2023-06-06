@@ -189,12 +189,12 @@ h3 {
 
 .education:hover {
     background-color: #d03d3d;
-    box-shadow: 0 0 8px gray;
+    box-shadow: 0 0 8px rgb(24, 52, 211);
     transition: all ease-in-out .8s;
 }
 
 .content-education .education a:hover {
-    color: grey;
+    color: rgb(250, 243, 243);
     font-size: 12px;
     text-decoration: none;
 }
@@ -266,8 +266,9 @@ footer {
     text-align: center;
 }
 
-.pastFooter img {
+.partFooter img {
     width: 60%;
+    height: 90%;
 }
 
 .partFooter h4 {
