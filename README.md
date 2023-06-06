@@ -1,14 +1,14 @@
 
-### Página de Hoja de Vida \u{1F604}
+# Página de Hoja de Vida &#x1F604;
 
 Este es el repositorio de mi página personal de hoja de vida. Aquí encontrarás información relevante sobre mi perfil profesional y académico.
 
-Contenido
+## Contenido
 index.html: Archivo principal HTML que contiene la estructura de la página.
 styles.css: Archivo CSS que define los estilos y la apariencia visual de la página.
 script.js: Archivo JavaScript que proporciona la funcionalidad interactiva de la página.
 assets/: Carpeta que contiene los recursos adicionales, como imágenes y archivos descargables.
-Cómo utilizar
+## Cómo utilizar
 Clona este repositorio en tu máquina local utilizando el comando:
 
 bash
@@ -18,7 +18,7 @@ Abre el archivo index.html en tu navegador web.
 
 Explora la página para conocer más sobre mi experiencia, habilidades y educación.
 
-Personalización
+## Personalización
 Si deseas utilizar esta página como base para tu propia hoja de vida, puedes seguir los pasos a continuación:
 
 Edita el archivo index.html y personaliza el contenido con tu información, como tu nombre, experiencia laboral, educación, habilidades, etc. Asegúrate de mantener la estructura HTML adecuada.
@@ -29,7 +29,7 @@ Si es necesario, modifica el archivo script.js para agregar funcionalidad adicio
 
 Reemplaza las imágenes y archivos descargables en la carpeta assets/ con tus propios recursos.
 
-Contribución
+## Contribución
 Si deseas contribuir a esta página de hoja de vida, puedes seguir los pasos a continuación:
 
 Realiza un fork de este repositorio.
@@ -44,6 +44,6 @@ Haz push a la rama (git push origin feature/nueva-funcionalidad).
 
 Crea un pull request para que podamos revisar tus cambios.
 
-Contacto
+## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes encontrar mis datos de contacto en mi página de hoja de vida.
 
