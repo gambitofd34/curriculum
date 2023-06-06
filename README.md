@@ -1,5 +1,6 @@
 
-Página de Hoja de Vida
+####Página de Hoja de Vida `:smile`
+
 Este es el repositorio de mi página personal de hoja de vida. Aquí encontrarás información relevante sobre mi perfil profesional y académico.
 
 Contenido
@@ -46,4 +47,3 @@ Crea un pull request para que podamos revisar tus cambios.
 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes encontrar mis datos de contacto en mi página de hoja de vida.
 
-¡Gracias por visitar mi página de hoja de vida! Espero que encuentres la información útil y relevante para conocerme mejor.
