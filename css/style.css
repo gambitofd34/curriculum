@@ -144,12 +144,11 @@ nav {
     text-align: center;
     color: #fff;
     font-size: 20px;
-    font-weight: 400px;
     background-color: #d03d3d;
     padding: 5px 0;
     border: 1px solid #fcfbfd;
     border-radius: 5px;
-    width: 15%;
+    width: 200px;
 }
 
 .section-education {
