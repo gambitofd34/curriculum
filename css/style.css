@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-.contenedor img {
-    width: 30%;
-    height: 30px;
-}
-
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -100,8 +95,8 @@ nav {
 }
 
 .contenido-header>img {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 350px;
     margin-left: 50px;
     animation: ease-in animacion 0.5s;
 }
@@ -111,9 +106,9 @@ nav {
 }
 
 .contenido-header P {
-    font-weight: 300;
+    font-weight: 350;
     margin-top: 14px;
-    color: #5d6678;
+    color: #000000;
     text-align: justify;
 }
 
@@ -131,7 +126,7 @@ nav {
     margin: 28px 0 0 0;
     width: 150px;
     display: inline-block;
-    background-color: #d03d3d;
+    background-color: #cc3e3e;
     text-align: center;
     color: #fff;
     text-decoration: none;
@@ -140,20 +135,28 @@ nav {
     font-weight: 400;
     font-size: 16px;
     text-transform: uppercase;
-    box-shadow: 0 8px 32px rgba(97, 31, 31, 0.46);
+    box-shadow: 0 8px 10px rgba(139, 93, 199, 0.46);
 }
 
 /*content*/
-h2,
-h3 {
+.title1{
+    margin: 15px auto;
     text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400px;
+    background-color: #d03d3d;
+    padding: 5px 0;
+    border: 1px solid #fcfbfd;
+    border-radius: 5px;
+    width: 15%;
 }
 
-.section-ducation {
+.section-education {
     background-color: #dbdbdb;
 }
 
-.section-ducation .title {
+.section-education .title {
     display: block;
     margin: 15px 0;
     width: 100%;
@@ -164,15 +167,21 @@ h3 {
 .content-education {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     padding-bottom: 30px;
 }
 
+.unir{
+    display: inline;
+}
 .education {
-    width: 30%;
-    background-color: #fff;
+    width: 45%;
+    background-color: #ffffff;
     border-radius: 8px;
     padding: 30px;
+}
+.education a{
+    text-decoration: none;
 }
 
 .education i {
@@ -188,8 +197,8 @@ h3 {
 }
 
 .education:hover {
-    background-color: #d03d3d;
-    box-shadow: 0 0 8px rgb(24, 52, 211);
+    background-color: #e05e55;
+    box-shadow: 0 0 8px rgb(79, 91, 158);
     transition: all ease-in-out .8s;
 }
 
@@ -199,7 +208,7 @@ h3 {
     text-decoration: none;
 }
 
-/*       dfdgfdg           */
+/*       Certificados       */
 
 .section-certificates .title {
     display: block;
@@ -212,14 +221,14 @@ h3 {
 .content-certificados {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding-bottom: 30px;
 }
 
 .certificates {
     width: 22%;
     border-radius: 5px;
-    border: 2px solid rebeccapurple;
+    border: 2px solid rgb(137, 65, 209);
     margin-top: 15px;
     text-align: center;
     padding: 15px;
@@ -227,12 +236,12 @@ h3 {
 
 .certificates img {
     height: 100px;
-    width: auto;
+    width: 65%;
 }
 
 .certificates a {
     font-size: 12px;
-    color: #5d6678;
+    color: #151815;
     text-decoration: none;
 }
 
@@ -249,7 +258,7 @@ h3 {
     color: #dbdbdb;
 }
 
-/*############################################################################pie de pagina ##################################################################### */
+/*########################### pie de pagina ##################################################################### */
 footer {
     background-color: rgb(70, 70, 70);
     padding: 20px 0;
@@ -264,11 +273,12 @@ footer {
 .partFooter {
     width: 22%;
     text-align: center;
+    overflow: auto;
 }
 
 .partFooter img {
     width: 60%;
-    height: 90%;
+    height: 85%;
 }
 
 .partFooter h4 {
@@ -276,9 +286,9 @@ footer {
     font-size: 20px;
     font-weight: 400px;
     margin-bottom: 15px;
-    background-color: #d03d3d;
+    background-color: #e43e3e;
     padding: 5px 0;
-    border: 1px solid #d03d3d;
+    border: 1px solid #f70606;
     border-radius: 5px;
 }
 
@@ -346,7 +356,7 @@ footer {
     border-color: #d03d3d;
 }
 
-/*############pie de pagina################################################*/
+/*############ fOOTER ################################################*/
 @media screen and (max-width: 700px) {
     .hamburguer {
         display: block;
@@ -397,8 +407,8 @@ footer {
 
     .contenido-header>img {
         margin: 15px 0 0 0;
-        width: 120px;
-        height: 120px;
+        width: 40%;
+        height: 20%;
     }
 
     /*section education*/
